@@ -1,0 +1,2 @@
+# dcc5618ff9d85ae2-barbershop-customer-portal-wor
+Every barbershop professionals needs this — most just don't know it yet.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Barbershop Customer Portal — fully configured and ready to use - Clean admin settings panel with inline documentation - Compatible wi
